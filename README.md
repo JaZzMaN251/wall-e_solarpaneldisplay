@@ -1,6 +1,18 @@
+# Wall-E Solar Panel Display
+Standalone Chillibasket-sized Wall-E Solar Panel Display using NodeMCU 1.0 and 1.69" Color TFT Display 240x280.
+
+Features still to be added:
+
+* Modified body_front panel to mount the display properly
+
+## Features
+* Startup animation
+* Battery level indication
+* Low Battery warning animation
+
 ## List of components
 
-* ESP8266
+* NodeMCU 1.0
 * 1.69" Color TFT Display 240X280 SPI ST7789 ([link](https://s.click.aliexpress.com/e/_EySYptH ))
 * 1 x 47kΩ resistor
 * 1 x 51kΩ resistor
